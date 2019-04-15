@@ -1,0 +1,11 @@
+r(1)=length(F12)/length(F1);
+r(2)=length(F22)/length(F2);
+r(3)=length(F32)/length(F3);
+r(4)=length(F42)/length(F4);
+r(5)=length(F52)/length(F5);
+r(6)=length(F62)/length(F6);
+r(7)=length(F72)/length(F7);
+r(8)=length(F82)/length(F8);
+r(9)=length(F92)/length(F9);
+r(10)=length(F102)/length(F10);
+plot(r)

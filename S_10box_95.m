@@ -1,0 +1,20 @@
+ subplot(1,10,1)
+boxplot(F1);
+ subplot(1,10,2)
+boxplot(F2); 
+subplot(1,10,3)
+boxplot(F3); 
+subplot(1,10,4)
+boxplot(F4); 
+subplot(1,10,5)
+boxplot(F5);
+subplot(1,10,6)
+boxplot(F6); 
+subplot(1,10,7)
+boxplot(F7); 
+subplot(1,10,8)
+boxplot(F8); 
+subplot(1,10,9)
+boxplot(F9); 
+subplot(1,10,10)
+boxplot(F10);
